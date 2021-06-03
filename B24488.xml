@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble remonstrance and petition of the gentlemen, ministers, and free-holders of the said county, on the behalfe of themselves and the whole county.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24488</idno><idno type="EEBO-CITATION">47967265</idno>
+  <idno type="VID">206613</idno>
+  <idno type="EEBO-PROQUEST">2240883502</idno>
+  
+            <idno type="STC">Wing H3605</idno>
+            <idno type="OCLC">47967265</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206613)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1779:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble remonstrance and petition of the gentlemen, ministers, and free-holders of the said county, on the behalfe of themselves and the whole county.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Copy in Thomason Tracts Collection at reel 247:669.f.22[53] identified as Wing T1722 (To the Right worshipfull the high sheriffs and justices of the Peace, for the county of Cornwall, met and assembled at Truro in the said county, the 27th. of December, 1659).</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Civil rights --  England --  Cornwall.</term>
+               <term type="geographic_name">Cornwall (England : County) --  Politics and government.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:206613:1"/>
+            <head>Right Worshipfull the High Sheriffs and Justices of the Peace, for the County of <hi>Cornwall,</hi> met and assembled at <hi>Truro</hi> in the said County, the 27<seg rend="sup">th</seg>. of <hi>December,</hi> 1659.</head>
+            <head type="sub">The humble <hi>Remonstrance</hi> and <hi>Petition</hi> of the Gentlemen, Ministers, and Free-holders of the said County, on the behalfe of themselves and the whole County.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Liberties, Freedomes and Priviledges of the people of <hi>England,</hi> having been long since owned and challenged by the people in Parliament, and in Parliament allowed, &amp; confirmed by the late King, &amp; the preservation thereof having been constantly declared to be the chiefe end of their Trust, who have suc<g ref="char:EOLhyphen"/>ceeded the said King in the Government of these Nations. We could not but think ourselves suffi<g ref="char:EOLhyphen"/>ciently (on all hands) secured of our Liberties, &amp; so (slighting those who would perswade us to a contra<g ref="char:EOLhyphen"/>ry beliefe) have peaceably, and too securely, sat down under our own ruines, not suspecting the losse of that which seemed with so much zeale contended for, and with such care continued, and confir<g ref="char:EOLhyphen"/>med to us.</p>
+            <p>In which security we should still have rested, had it not pleased him that never sleeperh to awake us, and by our own suffering to inform us that we are not safe, but that our dangers require that we should exclaim with the Prophet <hi>Ieremiah</hi> the 8. and the 11. <hi>That they have healed the Daughter of my people with sweet words, saying</hi> Peace, Peace, <hi>when there is no</hi> Peace.</p>
+            <p>Wherefore knowing it to be the duty of every Free-man to stand Sentinell over his Priviledges, and at all times to call in aid his fellow Free-man to disappoint such as shall offer an invasion upon their Right.</p>
+            <p>We, in discharge of that duty, cry unto you, you being such as have a double call, as blest with double Tallents, and made strong for the help of the weak: unto you we humbly remonstrate and complain with the same Prophet, <hi>Lament.</hi> the 4. and the 8.</p>
+            <p>That our servants have ruled over us, and none will deliver us out of their hands. For certain disorderly persons imbodied, ta<g ref="char:EOLhyphen"/>king advantage of the present distractions of the Nation, contrary to our ancient and undoubted rights and previledges, have of late entred the houses, taken away and dispoiled the goods, frighted the wives, threatned and abused the persons of many of us, to the terrour of us all.</p>
+            <p>And to our greater astonishment such boldnesse h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly pro<g ref="char:EOLhyphen"/>mise themselves impunity, but also bragge that our innocence and Laws (the only weapons that are left us) are too weak to withstand their wills in defence of what we as yet possesse.</p>
+            <p>And to take from us and our posterity all hopes of ever regaining our rights, they openly declare against our having any more Parliaments, the only expedient for asserting our Freedomes, they contemn the Law, the only means of gaining redresse for our wrongs, and not content only to deprive us of our temporall well-beeing, they despise and threaten to destroy the Mini<g ref="char:EOLhyphen"/>sters who are our spirituall Shepheards, and whose study is disposed to inform and reclaim such whose weaknesses may be apt to be deceived by the seditious.</p>
+            <p>So that they being both resolute in their practice, and desperate in their principles, that a stop may be put to persons and ac<g ref="char:EOLhyphen"/>tions so destructive to our Religion, Freedomes and Liberties we humbly pray</p>
+            <p>
+               <hi>That you would now improve your endeavours to have our Liberties asserted by a Free Parliament, and in the mean time during this inter<g ref="char:EOLhyphen"/>vall of Government while it is with us, as it was once with Israel,</hi> Judg. 17.6. <hi>that you the heads of our Tribes, and fathers of our Country for our just Liberties, would recall your ancient spirits, and take such care in settling of this our County for the defence of our rights against the Outrages of such Lawless persons, as that the Prophesies of our Enemies may not be fulfilled to the reproach of such as have Credited our publick Declarations and protestations.</hi>
+            </p>
+            <p>And besides our Prayers you shall receive from us such services as good Patriots, may justly challenge from their o<g ref="char:EOLhyphen"/>bliged Countrey-men.</p>
+            <closer/>
+            <postscript>
+               <p>This Petition and Remonstrance was presented by a very great number of <hi>Gentlemen, Ministers,</hi> and <hi>Free-holders,</hi> to about fifty of the most eminent persons of the County assembled as abovesaid, who having heard the same read, ordered a worthy person of their number to return this answer to the Petitioners.</p>
+               <p>That they had fully considered of the Petition, and were very sensible of the sad truths therein contained, thanked them for their good affecton to their Countrey, and to Parliamentary Authority, and further, that by the blessing of God they would join with them with heart and hand for the accomplishing the matters and things therein mentioned and desired.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
